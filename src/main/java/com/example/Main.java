@@ -80,7 +80,7 @@ public class Main {
   }
 
   @Bean
-  public final DataSource dataSource() throws SQLException {
+  public DataSource dataSource() throws SQLException {
     if (dbUrl == null || dbUrl.isEmpty()) {
       return new HikariDataSource();
     } else {
