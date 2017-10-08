@@ -8,7 +8,7 @@ A barebones Java app, which can easily be deployed to Heroku. This application i
 
 ## Course concepts
 
-This application has examples of different design patterns from the class: DOT, DAO, Front Controller, ...
+This application has examples of different design patterns from the class: DTO, DAO, Front Controller, ...
 
 The original version of this sample project is implemented using Servlets and JSP, but this one is merged with the sample provided by Heroku. Navigate the source code to find the samples needed. 
 
