@@ -6,6 +6,12 @@ A barebones Java app, which can easily be deployed to Heroku. This application i
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
+## Course concepts
+
+This application has examples of different design patterns from the class: DOT, DAO, Front Controller, ...
+
+The original version of this sample project is implemented using Servlets and JSP, but this one is merged with the sample provided by Heroku. Navigate the source code to find the samples needed. 
+
 ## Running Locally
 
 Make sure you have Java and Maven installed.  Also, install the [Heroku CLI](https://cli.heroku.com/).
