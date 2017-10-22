@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example;
+package edu.uan.fis.jeesample;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
