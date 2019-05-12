@@ -1,5 +1,6 @@
 # electiva1
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1cd355c8dfac4520a673cc3387d17620)](https://app.codacy.com/app/wilson.forero/sample-spring-boot?utm_source=github.com&utm_medium=referral&utm_content=wjfatuan/sample-spring-boot&utm_campaign=Badge_Grade_Dashboard)
 [![CircleCI](https://circleci.com/gh/heroku/java-getting-started.svg?style=svg)](https://circleci.com/gh/heroku/java-getting-started)
 
 A barebones Java app, which can easily be deployed to Heroku. This application is based on  the [Getting Started with Java on Heroku](https://devcenter.heroku.com/articles/getting-started-with-java) article - check it out. You can access an online version of it in https://wjfatuan-electiva1.herokuapp.com/
